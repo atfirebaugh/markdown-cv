@@ -1,44 +1,39 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ariana Firebaugh Ornelas CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ariana Firebaugh Ornelas
+UC Riverside
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+PhD Student in the Department of Evolution, Ecology, and Orgnismal Biology at UC Riverside.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Saltbush Restoration, community ecology, ecophysiology.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Modern coexistence theory, gradient analysis.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016`
+__East LA College__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2018`
+__Whittier College__
 
-- Sizar
+- BA
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Present`
+__University of California, Riverside__
 
-- Fellow
+- PhD Student
 
 
 
@@ -57,19 +52,12 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+Infinitesimal 
 
 ## Occupation
 
